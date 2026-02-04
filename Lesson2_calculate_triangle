@@ -1,0 +1,5 @@
+base = float(input("Nhập giá trị đáy của tam giác: "))
+height = float(input("Nhập giá trị chiều cao của tam giác: "))
+
+area = 0.5 * base * height
+print("Diện tích tam giác là: ", area)
